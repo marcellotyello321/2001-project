@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title> New Project</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+
+  <body>
+  	
+
+  	<form name="formtest" action="index.html" method="post">
+
+   <h1> Contato </h1>
+    
+   <p class="nome">
+    <input type="text" name="" placeholder="Informe seu nome " required="">
+    </p>
+  
+    <p class="email">
+    <input type="email" name="email" placeholder="Informe seu email" required="required"> 
+    </p>
+
+    <p class="assunto">
+     <input type="text" name="assunto" placeholder="Informe o assunto" required="required">
+
+
+
+     <p class="telefone">
+    <input type="telefone" name="telefone" placeholder="Informe seu telefone" required="required"> 
+    </p>
+
+
+     
+     <p class="mensagem">
+      <textarea name="mensagem" placeholder="Deixe sua mensagem"></textarea>
+     </p>
+
+     
+     
+     <p class=" enviar">
+      <input type="submit" name="enviar" value="Enviar">
+     </p>
+
+
+
+
+     </form>
+
+   </body>
+</html>
