@@ -9,18 +9,18 @@
 		<body>
 	
 		<ul>
-			<li><a class="active" href="file:///C:/Users/mfrs2/Documents/Uninove%20cursos/Marcello%20HTML/INDEX.HTML%20(2).HTML#home">Home</a></li>
-			<li><a href="http://www.archenemy.net/en/">News</a></li>
-			<li><a href="https://www.centurymedia.com/artist.aspx?IdArtist=6">Contact</a></li>
-			<li><a href="https://pt.wikipedia.org/wiki/Arch_Enemy">About Us</a></li>
-			<li><a href="https://www.facebook.com/archenemyofficial/">Facebook</a></li>
+			<li><a class="active" href="file:///C:/Users/mfrs2/Documents/Uninove%20cursos/Marcello%20HTML/INDEX.HTML%20(2).HTML#home" target="_blank">Home</a></li>
+			<li><a href="http://www.archenemy.net/en/" target="_blank">News</a></li>
+			<li><a href="https://www.centurymedia.com/artist.aspx?IdArtist=6" target="_blank">Contact</a></li>
+			<li><a href="https://pt.wikipedia.org/wiki/Arch_Enemy" target="_blank">About Us</a></li>
+			<li><a href="https://www.facebook.com/archenemyofficial/" target="_blank">Facebook</a></li>
 	    </ul>
 	
 	    <div class="rockworld">
 			
-			<h2>Arch enemy</h2>
+			<h2>Arch Enemy</h2>
 		<br/>	  
-			<p>Seeing Arch Enemy is a complete experience. Thanks to over 20 years in existence, the group has remained one of melodic death metal's most prevalent acts in heavy metal as a whole. The group recently released their tenth and latest album Will to Power, and are keeping things moving, as they've released a new video for "The Race."</p>
+			<p>Seeing Arch Enemy is a complete experience. Thanks to over 20 years in existence, the group has remained one of melodic death metal's most prevalent acts in heavy metal as a whole. The group recently released their tenth and latest album Will to Power, and are keeping things moving, as they've released a new video for "The Race."</p></font>
 	
 			<h2> Slideshow From Concert </h2>
 	
