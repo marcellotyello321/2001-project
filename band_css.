@@ -140,3 +140,9 @@ footer {
  color: #1C1C1C;
  
 }
+
+li:hover{
+  background: grey;
+  color: blue;
+  font-size: 19px;
+}
