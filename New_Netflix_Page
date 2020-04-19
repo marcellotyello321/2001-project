@@ -1,0 +1,114 @@
+# 2001-project
+Basic codes
+<!DOCTYPE html>
+  <html lang="eng">
+    <head>
+      <meta charset="utf-8">	
+     <link rel="stylesheet" type="text/css" href="style.css">	
+   <title>For These Days</title>
+  </head>
+<body>
+
+
+<ul>
+	<li><a class="active" target="_blank">Home</a></li>
+	<li><a href="#https://www.netflix.com/signup" target="_blank">Family's Plan</a></li>
+	<li><a href="#https://www.rancord.org/netflix-corporate-vision-statement-mission-statement-strategic-analysis" target="_blank">Mission</a></li>
+	<li><a href="#https://www.netflix.com/br/browse/genre/34399" target="_blank">Links</a></li>
+	<li><a href="#https://help.netflix.com/pt/" target="_blank">Contacts</a></li>
+	<li><a href="#https://www.facebook.com/netflixbrasil/" target="_blank">Facebook</a></li>
+	<li><a href="#https://www.imore.com/netflix" target="_blank">About Us</a></li>
+	<li><a href="#https://media.netflix.com/pt_br/about-netflix" target="_blank">Information</a></li>
+	<li><a href="#https://twitter.com/NetflixBrasil?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">Twiter</a></li>
+	<li><a href="#https://interestingengineering.com/the-fascinating-history-of-netflix" target="_blank">History</a></li>
+</ul>
+
+<h1>For These Days For While You At Home</h1>
+    <img src="image/blogib_the-society_feat.jpg" height="">
+     
+<h1>Hi! How is going?</h1>
+  <table style="width:100%">
+  	<tr>
+  	 <th><p>We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend.
+     Watch that netflix series this weekend and tell us what do you think? We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think?
+
+     We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think? We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think?</p>
+
+   </th>
+
+     <th><p>We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think? We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think? 
+
+     We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think? We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think?</p>
+
+   </th>
+   </tr>
+ </table>
+
+ <h1>Netflix inspire peoples to work at home</h1>
+
+  <table style="width:100%">
+  	<tr>
+  	 <th><p>We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend.
+     Watch that netflix series this weekend and tell us what do you think? We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think?
+
+     We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think? We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think?</p>
+
+   </th>
+
+     <th><p>We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think? We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think? 
+
+     We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think? We here to talk to you about something important today.
+     In our run days at weekend, we've a lot work, school etc..Do not worry about this now, The society come to save your weekend
+     Watch that netflix series this weekend and tell us what do you think?</p>
+
+   </th>
+   </tr>
+ </table>
+  
+ <h2><strong>Netflix 2020</strong></h2>
+
+<figure>
+    <img src="image/drda8fn0middpo6aabq0.jpg">
+    <figcaption>The Best yet to come.</figcaption>
+<figure>
+
+
+
+<p class="mensagem">
+	  <textarea name="mensagem" placeholder="Let your message here and tell us your opinion..." size="80"></textarea>
+</p>
+
+<footer>
+  <small> This website is protect by all right netflix's law.
+  Copyright © 2020 </small>
+   </footer>
+  </body>
+</html>
