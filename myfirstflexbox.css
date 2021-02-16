@@ -1,0 +1,118 @@
+# 2001-project
+Basic codes
+
+
+/* Inicio da estilização do Menu Header*/
+
+body, ul, li, p{
+
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1,2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    /*Configuração geral da página*/
+}
+
+
+
+a{
+    text-decoration: none;
+    color:snow;
+    /*Configuração dos links*/
+
+}
+
+
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    /*Centralizador do texto e distanciamento do menu*/
+}
+
+
+
+img{
+    display: block;
+    max-width: 100%;
+    border-style: solid;
+    border-color:rgb(126, 24, 177) ;
+
+    /*Max-width: Deixa o site responsivo para todos os dispositivos moveis ou mesa*/
+
+}
+
+
+
+.header{
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 20px;
+    /*Estilização do menu header, opçoês do úsuario*/
+    
+}
+
+
+
+.menu{
+    display: flex;
+    /*Container do Menu( Quadrado)*/
+}
+
+
+
+.menu{
+    margin-left: 10px;
+    /*Separação dos items (_links */
+}
+
+
+
+.menu li a{
+    display: block;
+    padding: 10px;
+    background: rgb(126, 24, 177);
+    margin: 5px 5px 5px 5px;
+
+}
+
+/* Fim da Estilização do Menu Header CSS*/
+
+
+
+/* Inicio Section Imagens */
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+
+.flex > div{
+    flex: 1 1 200px;
+    margin: 10px;
+
+}
+
+/* Fim do section Imagens*/
+
+/*footer da página*/
+
+
+
+.box{
+    float: left;
+    padding: 38px 45px;
+    margin: 0px;
+    background: black 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
