@@ -1,0 +1,98 @@
+# 2001-project
+Basic codes
+
+
+body{
+    padding: 0px 55px 0px 55px;/* espaçamento da tela inteira*/
+    margin: 0px; /*margin da tela inteira*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.menu{
+    background:black;/* Cor de fundo*/
+    color: white;/*Cor da Letra*/
+    padding: 2px;/* Espaçamento entre a bordas*/
+    margin: 2px;/* Espacamento ao redor do quadro preto*/
+    font-size: medium;
+    border-radius: 12px;/* Arendondando a borda*/
+    
+
+    
+}
+
+
+
+li{
+    display: inline;/* Um item ao lado do outro*/
+    margin: 10px;/* Espaço entre itens*/
+}
+
+
+
+a{
+    background: transparent;
+    text-decoration: none;/* Exclui o sublinhado do link*/
+    color: white;
+}
+
+
+
+.div{
+    background: black;
+    height: 100px;/*aAltura*/
+    width: 100px;/*Largura*/
+    display: inline-block;/*um item ao lado do outro*/
+    padding: 25px ;/*Espaçamento*/
+    margin: 1.9px;/*Ao redor do quadradp*/
+    color: white;
+    /*Quadrados são as divs*/
+    border-radius: 20px;
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    /* Tamanho da fonte*/
+
+    
+}
+
+
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+.duas-colunas{
+    /*Duas Colunas de textos do site*/
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    padding: 30px;
+    text-align: justify;/*Aqui estamos justificando o texto ( alinhamento ao redor)*/
+
+}
+
+img{
+    margin: 2px 28px 2px 28px;
+    padding: 35px;
+    display: inline;
+}
+
+
+
+footer{
+    background: black;
+    color: white;
+    height: 75px;
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+    
+}
+    
