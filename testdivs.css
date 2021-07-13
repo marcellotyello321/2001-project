@@ -1,0 +1,120 @@
+header{
+    background-color: black;
+    color: white;
+    padding: 7px 7px 7px 7px;
+    margin: 9px 99px 9px 99px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    line-height: 50px;
+    font-size: large;
+    
+    
+}
+
+input, button{
+    border-radius: 7px;
+}
+
+nav{
+    background-color: blueviolet;
+    padding: 7px 7px 7px 7px;
+    margin: 9px 99px 9px 99px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    line-height: 50px;
+    font-size: large;
+}
+
+ul, li{
+    display: inline;
+    padding-right: 20px;
+    color: black;
+    
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+section{
+    background-color: black;
+    padding: 9px 9px 9px 9px;
+    margin: 9px 99px 9px 99px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    
+
+}
+
+article{
+    background-color: coral;
+    padding: 9px 9px 9px 9px;
+    margin: 9px 99px 9px 99px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2{
+    background-color: royalblue;
+    padding: 9px 9px 9px 9px;
+    margin: 7px 99px 7px 99px;
+    text-align: center;
+}
+
+aside{
+    background-color: darkkhaki;
+    padding: 9px 9px 9px 9px;
+    margin: 9px 99px 9px 99px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    float: right;
+    display: inline;
+    
+}
+
+footer{
+    background-color: mediumorchid;
+    padding: 9px 9px 9px 9px;
+    margin: 9px 99px 9px 99px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    
+
+}
+
+.section{
+    text-align: center;
+    font-weight: 900;
+    font-size: larger;
+    background-color: white;
+    padding: 9px 9px 9px 9px;
+    margin: 9px 99px 9px 99px;
+
+}
+
+.section2{
+    text-align: center;
+    font-weight: 900;
+    font-size: larger;
+    background-color: white;
+    padding: 9px 9px 9px 9px;
+    margin: 9px 99px 9px 99px;
+
+}
+
+
+
+p{
+    text-align: center;
+    font-size: medium;
+    padding: 9px 9px 9px 9px;
+    margin: 9px 99px 9px 99px;
+
+
+}
+
