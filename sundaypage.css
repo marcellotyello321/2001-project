@@ -1,0 +1,84 @@
+body{
+    margin: 0;/*Menu colado na parte superior da tela*/
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+ 
+}
+
+nav{
+    /*Aqui temos a configuração Header Do Menu  cores e espaçamento*/
+    background-color: black;
+    color: white;
+    padding: 18px ;
+
+    
+   
+}
+
+ul, li{/*Configuração da lista do menu e seu espaçamento*/
+    display: inline;
+    padding: 32px;/*Espaçamento entre a lista de menu*/
+    text-decoration: none;
+    
+    
+}
+
+ol{/*Configuração da lista OL com espaçamento*/
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+}
+
+a{/*Anchor Configuração */
+    text-decoration: none;
+    text-transform: capitalize;/*Aumenta ou diminui a letra do menu dependendo da opção escolhida*/
+    color: white;
+    
+} 
+
+a:hover{
+    /*Configuração hover: Quando o Mouse passa pelo menu acontece uma ação.*/
+    background-color:white;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+    
+
+a:active, a:visited{
+    /*Active: Significa Links ativos/Em funcionamento*/
+    background-color: white;
+}
+
+
+article{
+    background-color: black;
+    color: white;
+    margin: 0px 0px 0px 970px;
+    padding: 2px 2px 2px 50px;
+    border-radius: 7px;
+    
+}
+
+h1{
+    
+    font-size: 50px;
+    margin: 10px 50px 0px 10px;
+    padding-left: 1100px;
+    color: white;
+
+}
+
+.images{
+    background-color: blue;
+    padding: 5px 5px 5px 5px;
+    margin-right: 1px;
+    padding-right: 10px;
+}
+
+.inputs{
+    background-color: gray;
+    font-size: larger;
+}
