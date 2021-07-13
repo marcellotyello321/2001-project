@@ -1,0 +1,19 @@
+// variavel + concatenação
+var nome = " Marcello ";
+alert(" My first Js it's working right now! Welcome Back "  + nome);
+
+var question = " Do you know What day is it ? ";
+alert( question );
+
+// variavel + concatenação
+var dia = 13;
+alert( dia + " july ");
+
+var rock = " Happy Wolrd Rock Days ";
+alert( nome + rock );
+
+console.log( nome + rock);
+
+var trabalho = " Now, you can go back to work. Someone has to pay the bills right ? "
+alert ( trabalho);
+
