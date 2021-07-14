@@ -17,3 +17,18 @@ console.log( nome + rock);
 var trabalho = " Now, you can go back to work. Someone has to pay the bills right ? "
 alert ( trabalho);
 
+var saida = " Which time you go out work ?";
+alert( saida );
+
+var bus = 18;
+var horario = " O'Clock "; 
+alert ( bus + horario );
+
+var home = " Time to go home ";
+var transito = " We have a bad traffic today ";
+alert ( home );
+
+
+
+
+
