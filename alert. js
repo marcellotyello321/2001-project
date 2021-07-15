@@ -28,6 +28,34 @@ var home = " Time to go home ";
 var transito = " We have a bad traffic today ";
 alert ( home );
 
+var idade = prompt(" What is your age ?");
+if (idade >= 18){
+    alert(" Adult Person");
+}else{
+    alert(" You just a kid");
+};
+
+
+let trafficLight = prompt('Which color are the traffic light ?');
+if ( trafficLight === 'Red'){
+alert('Stop! Wait the traffic lights opens again ');
+}else if (trafficLight === 'Yellow'){
+    alert(' Attetion, the Traffic Light be opens');
+}else if(trafficLight === 'Blue'){
+    alert(' Something happen at avenue! Be careful');
+}else{
+    alert(' You can go now');
+}
+
+let time = prompt(' What time work is it?');
+if( time === ' Morning'){
+    alert(' Good Morning, have a great breakfast!');
+}else if( time === ' Afternoon'){
+    alert('Good Afternoon! Time at Lunch');
+}else if( time === 'Evening'){
+    alert('Good Evening! Time to sleep');
+}else{
+    ale
 
 
 
